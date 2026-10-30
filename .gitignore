@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules/
 .env
 .DS_Store
@@ -5,3 +6,20 @@ dist/
 coverage/
 *.log
 
+=======
+# Dependencies
+**/node_modules/
+
+# Environment variables and secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Build output
+**/dist/
+**/coverage/
+
+# Logs
+*.log
+npm-debug.log*
+>>>>>>> 4c3fdc36a050f6770c0e2cd8c57599c7de14ec91

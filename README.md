@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise Multi-Tenant Workflow Orchestration Engine
 
 A high-performance, production-grade workflow orchestration platform featuring:
@@ -135,3 +136,6 @@ Open `index.html` in your browser or navigate to `http://localhost:4000/` when t
 - Click **Cryptographic API Key** to generate a signed key.
 - Click **Cycle Test Preset** to see real-time loop detection and glowing red back-edges.
 - Click **Branching Preset** -> **Run Simulation** -> **Start Run** to step through execution.
+=======
+# workflow-orchestration-engine
+>>>>>>> 4c3fdc36a050f6770c0e2cd8c57599c7de14ec91
